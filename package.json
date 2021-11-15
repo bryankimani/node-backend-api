@@ -1,6 +1,7 @@
 {
 	"name": "node-backend-api",
 	"author": "Bryan Kimani",
+	"description": "The Backend API for Myne Essentials ecommerce website",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
