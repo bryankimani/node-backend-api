@@ -4,6 +4,7 @@
 	"description": "The Backend API for Myne Essentials ecommerce website",
 	"keywords": ["Node", "API", "Backend", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
